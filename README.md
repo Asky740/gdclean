@@ -9,7 +9,7 @@ repository for my geometry dash texture pack
 Are you tired of cluttered, inconsistent texture packs with eye-straining colors? Well, this one has you covered!
 GD Clean is a minimalist, dark-themed, monochromatic texture pack aiming for simplicity and consistency with icons from [tabler-icons.io](https://tabler-icons.io), some even custom-made. It is intuitive and, most importantly, easy on the eyes.
 
-### Don't forget to install the [Happy Textures](mod:alphalaneous.happy_textures) mod for some ui tweaks and gray menus to work!
+### <span style="color:blue">Don't forget to install the [Happy Textures](mod:alphalaneous.happy_textures) mod for some ui tweaks and gray menus to work!</span>
 
 If you want to suggest something, dm me on my discord @asky74
 
